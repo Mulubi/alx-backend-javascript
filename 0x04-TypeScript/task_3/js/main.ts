@@ -1,1 +1,1 @@
-werwer
+'use strict';
